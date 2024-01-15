@@ -1,0 +1,8 @@
+<!-- layouts/shortcodes/gallery.html -->
+<div class="gallery">
+    {{ range .Page.Resources.Match "images/*" }}
+    <a href="{{ .RelPermalink }}" data-lightbox="roadtrip">
+        <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+    </a>
+    {{ end }}
+</div>
