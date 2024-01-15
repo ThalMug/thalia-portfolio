@@ -54,8 +54,12 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Install Hugo
         run: |
-          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
-          sudo dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
+          curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest \
+          | grep browser_download_url \
+          | grep Linux-64bit.deb \
+          | cut -d '"' -f 4 \
+          | wget -qi -
+          sudo dpkg -i hugo*_Linux-64bit.deb
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
