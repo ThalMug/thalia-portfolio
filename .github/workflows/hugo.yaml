@@ -37,11 +37,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'  # Choisissez la version de Node.js que vous souhaitez utiliser
-      - name: Install Hugo
-        run: |
-          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
-          sudo dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
+          node-version: '14'
       - name: Install PostCSS and PostCSS CLI
         run: npm install -g postcss postcss-cli
       - name: Install Dart Sass
@@ -56,6 +52,10 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Install Hugo
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
+          sudo dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -65,7 +65,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
