@@ -64,7 +64,7 @@ Je suis actuellement étudiante en double-diplôme à l'Université du Québec �
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-gamepad" title="Liste de mes jeux et leurs descriptions"%}}
-[Liste de mes jeux et de mes contributions à ceux ci](/mes-projets-de-jeux/).
+[Liste de mes jeux et de mes contributions à ceux ci](/thalia-portfolio/mes-projets-de-jeux/).
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-envelope" title="Liste de mes jeux et leurs descriptions"%}}
