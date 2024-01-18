@@ -13,14 +13,13 @@ weight: 20
     <i class="fa-solid fa-user-group fa-2x"> : 5</i>
 </div>
 
-Neverland est un jeu d'exploration et de quêtes dans lequel on incarne Camille, qui après un crash rencontre un peuple qui ne lui font pas confiance...
+Neverland est un jeu d'exploration et de quêtes où l'on incarne Camille, qui, après un crash, rencontre un peuple méfiant...
 
-Vous pouvez retrouver le projet et y jouer sur la page [Itch](https://nekkiji.itch.io/neverland).
+[Retrouvez le projet et jouez-y sur la page Itch](https://nekkiji.itch.io/neverland).
 
 {{% /blocks/lead %}}
 
 {{% blocks/section color="danger"%}}
-
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1; padding-right: 20px;">
@@ -29,9 +28,9 @@ Vous pouvez retrouver le projet et y jouer sur la page [Itch](https://nekkiji.it
     </div>
     <div style="flex: 2;">
         <h1>Présentation globale :</h1>
-        <p>Nous avons créé Neverland dans le cadre du cours 8INF960 Principes de conception et de développement de jeux vidéo. En équipe, nous avons suivi différentes étapes de conception : document de concept, document de game design, développement par méthode agile, présentation et post-mortem.</p>
-        <p>Neverland est un jeu de plateforme et d'exploration en 3D dans lequel on joue Camille, venant d'une civilation avancée qui, après un crash, doit apprendre à vivre avec un peuple méfiant : les Sylves. Le but de ce jeu est d'explorer le monde, aider les Sylves ainsi que résoudre des énigmes et ce sous forme de quêtes. </p>
-        <p>Durant tout ce projet j'ai pu réaliser de nombreuses tâches :</p>
+        <p>Neverland a été créé pour le cours 8INF960, Principes de conception et de développement de jeux vidéo. En équipe, nous avons suivi diverses étapes de conception : documents de concept et de game design, développement agile, présentations et analyse post-mortem.</p>
+        <p>Dans ce jeu de plateforme et d'exploration 3D, on joue Camille, issu d'une civilisation avancée. Après un crash, il doit apprendre à vivre avec les Sylves, un peuple méfiant. L'objectif est d'explorer le monde, d'aider les Sylves, de résoudre des énigmes et de compléter des quêtes.</p>
+        <p>Ce projet m'a permis de réaliser de nombreuses tâches :</p>
     </div>
 </div>
 
@@ -43,11 +42,11 @@ Vous pouvez retrouver le projet et y jouer sur la page [Itch](https://nekkiji.it
         </div>
         <div class="col-md-6" style="margin-bottom: 1rem;">
             <h2>Dialogues :</h2>
-            <p>Les dialogues dans neverland sont très importants car ils permettent de comprendre le jeu, l'histoire, de débloquer des quêtes ainsi que les résoudres. Afin de permettre une plus grande flexibilité, j'ai utilisé des fichiers XML dans lesquels stocker les dialogues. Le fait d'utiliser les XML permet donc d'avoir un seul script pour tous les personnages, la seule chose à changer sera donc les XML en entrée ce qui rend le tout beaucoup plus modulable. Il est donc possible grâce à ce système d'avoir des dialogues dynamiques, avec divers embranchements, pouvant aussi servir à débloquer des quêtes une fois un dialogue spécifique fini. </p>
+            <p>Les dialogues sont cruciaux dans Neverland car ils permettent de comprendre le jeu, l'histoire, et de débloquer ou résoudre des quêtes. J'ai utilisé des fichiers XML pour stocker les dialogues, rendant le script unique pour tous les personnages. Ce système permet des dialogues dynamiques avec différents embranchements, et peut aussi servir à débloquer des quêtes après des dialogues spécifiques.</p>
         </div>
         <div class="col-md-6"style="margin-bottom: 1rem;">
             <h2>Musiques et sons :</h2>
-            <p>La musique et les sons sont très importants dans un jeu tel que celui-ci. En effet, afin d'avoir une meilleure immersion, l'objectif était de remplir au maximum l'espace sonore : bruits de pas, bruits environnants (oiseaux, air, rivière) tout en ne surchargeant pas non plus la·e joueur·euse. Concernant la musique, il y en a 3 principales, jouées à des intervalles aléatoires, permettant à la fois d'avoir un fond sonore intéressant mais encore une fois pas omniprésent. Tout à été composé sur FL Studio, en utilisant principalement des vst tels que Vital ou encore les librairies de spitfire audio.</p>
+            <p>La musique et les sons jouent un rôle clé dans l'immersion du jeu. L'objectif était de remplir l'espace sonore de manière équilibrée : bruits de pas, sons environnants, etc., sans surcharger l'expérience auditive du joueur. Concernant la musique, il y a trois pistes principales jouées aléatoirement, offrant un fond sonore intéressant mais discret. Tout a été composé sur FL Studio, en utilisant principalement des VST comme Vital et des librairies de Spitfire Audio.</p>
         </div>
         <div class="col-md-6" style="margin-bottom: 1rem;">
             <!-- Assurez-vous que l'URL de l'image est correcte -->
@@ -55,11 +54,9 @@ Vous pouvez retrouver le projet et y jouer sur la page [Itch](https://nekkiji.it
         </div>
         <div class="col" style="align-center">
             <h2>Intégration et divers : </h2>
-            <p>Bien que les dialogues et la musiques / sound design aient été mes priorités, j'ai pu aussi m'occuper de fonctionnalités mineures (ou non implémentées)ainsi qu'une bonne partie de l'intégration finale. Parmis les fonctionnalités mineures, nous avons par exemple le système d'intéractions avec les objets et personnages non joueurs, mais aussi un cycle jour / nuit (qui n'a malheureusement pas pu être implémenté au final).</p>
-            <p>Au niveau de l'intégration finale, je me suis principalement occupée de tout ce qui était relatif aux sons mais aussi au niveau des PNJs (placements, déroulement des quêtes, téléportations aux bons endroits lorsque nécessaires...). </p>
+            <p>J'ai également travaillé sur des fonctionnalités mineures et sur une bonne partie de l'intégration finale. Parmi les fonctionnalités, il y a le système d'interaction avec les objets et les personnages non joueurs, ainsi qu'un cycle jour/nuit, qui n'a finalement pas été implémenté. Pour l'intégration finale, je me suis surtout occupée des aspects sonores et des PNJs (placement, déroulement des quêtes, téléportations aux bons endroits, etc.).</p>
         </div>
     </div>
 </div>
-
 
 {{% /blocks/section %}}

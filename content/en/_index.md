@@ -9,7 +9,7 @@ title: Thalia
 
 
 {{% blocks/lead color="dark" %}}
-Je suis actuellement étudiante en double-diplôme à l'Université du Québec à Chicoutimi (Maîtrise en Informatique avec spécialisation jeux vidéos) ainsi qu'élève ingénieure à l'ENSEIRB-MATMECA (filière télécommunications), actuellement en recherche d'un stage de fin d'études dans le domaine des jeux vidéos ! 
+Je suis actuellement étudiante en double-diplôme à l'Université du Québec à Chicoutimi en Maîtrise en Informatique avec spécialisation jeux vidéos, ainsi qu'élève ingénieure à l'ENSEIRB-MATMECA (filière télécommunications), actuellement en recherche d'un stage de fin d'études dans le domaine des jeux vidéos ! 
 {{% /blocks/lead %}}
 
 {{% blocks/lead color="light"%}}
@@ -27,20 +27,20 @@ Je suis actuellement étudiante en double-diplôme à l'Université du Québec �
             <p>Unreal Engine</p>
         </div>
         <div class="col-md-4 text-center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 100px; height: auto;" alt="C++ Programming Language"> 
-            <p>C++</p>
-        </div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 100px; height: auto;" alt="C Programming Language"> 
+            <p>C</p>
+        </div>  
         <div class="col-md-4 text-center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 100px; height: auto;" alt="C++ Programming Language"> 
             <p>C#</p>
         </div>
         <div class="col-md-4 text-center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 100px; height: auto;" alt="C Programming Language"> 
-            <p>C</p>
-        </div>        
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 100px; height: auto;" alt="C++ Programming Language"> 
+            <p>C++</p>
+        </div>      
         <div class="col-md-4 text-center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="width: 100px; height: auto;" alt="C++ Programming Language"> 
-            <p>Python</p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 100px; height: auto;" alt="C++ Programming Language"> 
+            <p>JavaScript</p>
         </div>
     </div>
 </div>
@@ -50,18 +50,29 @@ Je suis actuellement étudiante en double-diplôme à l'Université du Québec �
 
 {{% blocks/section type="row" color="primary"%}}
 {{% blocks/feature icon="fab fa-linkedin" title="Mon profil Linkedin" %}}
-Que vous pouvez retrouver [ici](https://fr.linkedin.com/in/thalia-meignan-1619121bb?trk=public_profile_browsemap).
+[Que vous pouvez retrouver ici](https://fr.linkedin.com/in/thalia-meignan-1619121bb?trk=public_profile_browsemap).
 {{% /blocks/feature %}}
 
 
 {{% blocks/feature icon="fab fa-github" title="Ma page Github"%}}
-Pour jeter un oeil à certains de mes [repos](https://github.com/ThalMug).
+[Pour jeter un oeil à certains de mes repos](https://github.com/ThalMug).
 {{% /blocks/feature %}}
 
 
 {{% blocks/feature icon="fab fa-itch-io" title="Ma page ItchIO"%}}
-Où je publie les [jeux](https://itch.io/profile/thalia33) auxquels j'ai participé.
+[Où je publie les Jeux auxquels j'ai participé.](https://itch.io/profile/thalia33)
 {{% /blocks/feature %}}
 
+{{% blocks/feature icon="fa-solid fa-gamepad" title="Liste de mes jeux et leurs descriptions"%}}
+[Liste de mes jeux et de mes contributions à ceux ci](/mes-projets-de-jeux/).
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-solid fa-envelope" title="Liste de mes jeux et leurs descriptions"%}}
+<a href="mailto:fmeignan@etu.uqac.ca">Contactez-moi par mail.</a>
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-solid fa-file" title="Mon CV"%}}
+<a href="mailto:fmeignan@etu.uqac.ca">Téléchargez mon CV en pdf ici.</a>
+{{% /blocks/feature %}}
 
 {{% /blocks/section %}}

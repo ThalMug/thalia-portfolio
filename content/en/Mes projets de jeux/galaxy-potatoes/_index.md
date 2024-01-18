@@ -1,5 +1,5 @@
 ---
-title: Neverland
+title: Galaxy Potatoes
 weight: 20
 ---
 
@@ -13,17 +13,16 @@ weight: 20
     <i class="fa-solid fa-user-group fa-2x"> : 4</i>
 </div>
 
-Galaxy Potatoes est un petit jeux dans lequel vous devrez place des objets qui dévieront une patate de sa trajectoire afin qu'elle atteingne son objectif.  
+Galaxy Potatoes est un jeu 3D où vous devez placer des objets pour dévier une patate de sa trajectoire afin qu'elle atteigne son objectif.
 
-Vous pouvez retrouver le projet sur la page [Itch](https://thalia33.itch.io/galaxy-potatoes).
+[Retrouvez le projet sur la page Itch](https://thalia33.itch.io/galaxy-potatoes).
 
 {{% /blocks/lead %}}
 
 {{% blocks/section color="primary"%}}
 
 <h1>Présentation globale et contraintes :</h1>
-<p>Galaxy Potatoes est un jeu créé lors de la WonderJam Hiver 2023 à l'UQAC où l'utilisateur·ice est plongé·e dans un univers spatial où iel devra résoudre des objectifs donnés par le maître du jeu, modélisé sous forme d'un maïs humanoïde. Le thème de cette game jam était Hot Potato et nous avions les contraintes suivantes : Liberté, Système de quête et Univers dans l'espace. Ces trois thèmes ont été respectés en laissant l'utilisateur·ice la liberté de se déplacer dans le monde, dans un univers spatial tout en gardant un petit système de quêtes sous forme d'objectifs donnés par le maître du jeu. Il est important de noter que le jeu possède encore de nombreux bugs et n'est pas forcément jouable comme souhaité à 100%.</p>
-
+<p>Galaxy Potatoes est un jeu conçu lors de la WonderJam Hiver 2023 à l'UQAC. Le joueur est immergé dans un univers spatial et doit résoudre des objectifs donnés par un maïs humanoïde, maître du jeu. Le thème de la game jam était "Hot Potato", avec des contraintes telles que liberté, système de quêtes et univers spatial. Nous avons intégré ces éléments en permettant au joueur de se déplacer librement dans l'espace avec un système de quêtes. Il est important de noter que le jeu présente encore de nombreux bugs et n'est pas totalement jouable comme prévu.</p>
 
 <div class="container" style="margin-top: 4rem;">
     <div class="row">
@@ -32,16 +31,16 @@ Vous pouvez retrouver le projet sur la page [Itch](https://thalia33.itch.io/gala
             <img src="gp4.png" class="img-fluid" alt="Description de l'image" style="height: 90%; object-fit: cover;">
         </div>
         <div class="col-md-6" style="margin-bottom: 1rem;">
-            <h2>Objectifs et phases de jeux :</h2>
-            <p>Comme cité précédemment, le jeu se passe en deux phases principales. La première démarre lorsque le maître du jeu nous donne notre première quête (débloquable lorsque l'on s'approche de lui), sous forme d'objectif que doit atteindre une patate (un lieu précis, une certaine vitesse et/ou en un certain temps). Une fois ces objectifs pris en compte, nous avons accès à trois types d'objets différents que l'on peut placer où on veut et qui vont avoir des comportements différents au contact de la patate. Une fois les objets placés, la deuxième phase commence : on entre dans le canon, on vise et on tire une patate. Cette patate va rencontrer divers obstacles tels que l'environnement ou les objets placés préalablement afin d'atteindre l'objectif en cours. Si la·e joueur·euse parvient à atteindre son but, iel peut passer au suivant, sinon iel doit recommencer les deux phases. </p>
+            <h2>Objectifs et phases de jeu :</h2>
+            <p>Le jeu se déroule en deux phases principales. Tout commence lorsque le maître du jeu nous donne notre première quête, accessible en s'approchant de lui. Cette quête consiste en un objectif que doit atteindre une patate (atteindre un lieu précis, une certaine vitesse, ou dans un temps imparti). Après avoir pris en compte ces objectifs, nous pouvons placer trois types d'objets aux comportements variés. Une fois les objets en place, la seconde phase commence : on lance une patate depuis un canon, et elle doit franchir divers obstacles, y compris les objets placés, pour atteindre l'objectif. Si le joueur réussit, il passe au prochain objectif, sinon il doit recommencer.</p>
         </div>
         <div class="col-md-6"style="margin-bottom: 1rem;">
             <h2>Objets :</h2>
-            <p>Comme cité précédemment, les objets sont centraux dans la réussite des objectifs. Je me suis donc occupée de gérer le comportement des objets.</p>
+            <p>Les objets sont des éléments centraux dans la réussite des objectifs. Voici les fonctions de chacuns d'entre eux :</p>
             <ul>
-                <li>La canette : augmente la vitesse de la patate au contact</li>
-                <li>Le paquet de chips : fait rebondir la canette</li>
-                <li>La bouteille : augmente la vitesse de la patate et change sa direction (direction donnée par l'orientation du bouchon)</li>
+                <li>La canette : accélère la patate au contact.</li>
+                <li>Le paquet de chips : fait rebondir la patate.</li>
+                <li>La bouteille : accélère et change la direction de la patate (selon l'orientation du bouchon).</li>
             </ul>
         </div>
         <div class="col-md-6" style="margin-bottom: 1rem;">
@@ -51,7 +50,6 @@ Vous pouvez retrouver le projet sur la page [Itch](https://thalia33.itch.io/gala
     </div>
 </div>
 
-
 <div class="container" style="margin-top: 1rem;">
     <div class="row">
         <div class="col-md-6" style="margin-bottom: 1rem;">
@@ -59,7 +57,7 @@ Vous pouvez retrouver le projet sur la page [Itch](https://thalia33.itch.io/gala
         </div>
         <div class="col-md-6"style="margin-bottom: 1rem;">
             <h2>Musique :</h2>
-            <p>Durant la game jam, je me suis aussi occupée de composer la musique du jeu. J'ai donc composé le morceau que vous pouvez écouter ci contre, en utilisant FL Studio, et des vst/plugins tels que Sytrus, Vital ou encore Flex. </p>
+            <p>Je me suis également chargée de la composition musicale du jeu pendant la game jam. Le morceau que vous pouvez écouter ici a été composé avec FL Studio, en utilisant des VST/plugins comme Sytrus, Vital ou Flex.</p>
         </div>
     </div>
 </div>
