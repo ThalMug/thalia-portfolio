@@ -38,7 +38,7 @@ Neverland est un jeu d'exploration et de quêtes où l'on incarne Camille, qui, 
     <div class="row">
         <div class="col-md-6">
             <!-- Assurez-vous que l'URL de l'image est correcte -->
-            <img src="neverland2.png/" class="img-fluid" alt="Description de l'image" style="height:90%; width: 110%; object-fit: cover;">
+            <img src="neverland2.png" class="img-fluid" alt="Description de l'image" style="height:90%; width: 110%; object-fit: cover;">
         </div>
         <div class="col-md-6" style="margin-bottom: 1rem;">
             <h2>Dialogues :</h2>
