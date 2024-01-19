@@ -1,33 +1,33 @@
 ---
-title: Parcours académique
-linkTitle: Parcours académique
+title: Academic Background
+linkTitle: Academic Background
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="Mon parcours académique" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="My academic background" image_anchor="bottom" height="auto" %}}
 {.mt-5}
 
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
 ## Université du Québec à Chicoutimi (Canada, Chicoutimi)
-**Maîtrise en Informatique, 2023 / 2024 - Spécialisation Jeux Vidéos**
+**Master in Computer Science, 2023 / 2024 - Specialization in Video Games**
 
-À l'UQAC, je suis des cours en lien avec différents aspects des jeux vidéos : principes des moteurs de jeux, ateliers de développement de jeux vidéos, développement orienté réalité virtuelle et jeux sérieux, programmation réseau dans les jeux vidéos ainsi que la gestion de projets en informatique.
+At UQAC, I am pursuing courses related to various aspects of video games development : game engines principles, video game development workshops, virtual reality and serious games development, network programming in video games and project management. 
 
 {{% /blocks/lead %}}
 
 {{% blocks/lead %}}
 ## ENSEIRB-MATMECA (France, Bordeaux)
-**Diplôme d'Ingénieur, 2020/2024 - Filière Télécommunications**
+**Engineering Degree, 2020/2024 - Telecommunications**
 
-Durant mon parcours à l'ENSEIRB-MATMECA, j'ai suivi différents cours scindés en 3 thématiques principales : Informatique (apprentissage du C, programmation réseau et système, programmation web et mobile, algorithmique), Réseau (principes de base, administration système des réseaux), Traitement du signal, de l'image et des communications numériques (signaux continus, signaux aléatoires, traitement d'images, communications numériques sans fil...).
+My education at ENSEIRB-MATMECA includes various courses such as : Computer Science (C programming, networks and systems programming, web and mobile programming, algorithmic), Networking, Signal & Image Processing, and Digital Communications.
 
 {{% /blocks/lead %}}
 
 {{% blocks/lead %}}
-## Classes Préparatoires aux Grandes Écoles (France, Pau)
+## Preparatory Classes (France, Pau)
 **PCSI-PSI, 2018/2020**
 
-En CPGE, j'ai suivi deux années de classes préparatoires intenses, principalement en mathématiques, physique-chimie, sciences de l'ingénieur et informatique dans l'objectif d'intégrer une école d'ingénieurs.
+During my two years of intense preparatory classes, I studied mathematics, chemistry, engineering sciences and computer science in order to joining an engineering school. 
 {{% /blocks/lead %}}

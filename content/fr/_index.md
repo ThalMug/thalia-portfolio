@@ -2,19 +2,19 @@
 title: Thalia
 ---
 
-{{< blocks/cover title="Welcome to my portfolio" image_anchor="top" height="full">}}
-<p class="lead mt-5">Programmer and musician</p>
+{{< blocks/cover title="Bienvenue sur mon portfolio!" image_anchor="top" height="full">}}
+<p class="lead mt-5">Programmeuse et Musicienne</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="dark" %}}
-As a current double-degree student at the Université du Québec à Chicoutimi, specializing in Computer Science with a focus on video games, and also a student at ENSEIRB-MATMECA (french engineering school) in the Telecommunication field, i am seeking an internship in the video game industry as a programmer. 
+Je suis actuellement étudiante en double-diplôme à l'Université du Québec à Chicoutimi en Maîtrise en Informatique avec spécialisation jeux vidéos, ainsi qu'élève ingénieure à l'ENSEIRB-MATMECA (filière télécommunications), actuellement en recherche d'un stage de fin d'études dans le domaine des jeux vidéos ! 
 {{% /blocks/lead %}}
 
 {{% blocks/lead color="light"%}}
 
-<h1 style="margin-bottom: 5rem;"> Engines and Programming languages i use </h1>
+<h1 style="margin-bottom: 5rem;"> Outils et langages que j'utilise </h1>
 
 <div class="container">
     <div class="row">
@@ -49,30 +49,30 @@ As a current double-degree student at the Université du Québec à Chicoutimi, 
 {{% /blocks/lead %}}
 
 {{% blocks/section type="row" color="primary"%}}
-{{% blocks/feature icon="fab fa-linkedin" title="My Linkedin profile" %}}
-[Which you can find here](https://fr.linkedin.com/in/thalia-meignan-1619121bb?trk=public_profile_browsemap).
+{{% blocks/feature icon="fab fa-linkedin" title="Mon profil Linkedin" %}}
+[Que vous pouvez retrouver ici](https://fr.linkedin.com/in/thalia-meignan-1619121bb?trk=public_profile_browsemap).
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-github" title="My Github profile"%}}
-[With some of my repositories](https://github.com/ThalMug).
+{{% blocks/feature icon="fab fa-github" title="Ma page Github"%}}
+[Pour jeter un oeil à certains de mes repos](https://github.com/ThalMug).
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-itch-io" title="My ItchIO page"%}}
-[Where you can see and play my video games](https://itch.io/profile/thalia33)
+{{% blocks/feature icon="fab fa-itch-io" title="Ma page ItchIO"%}}
+[Où je publie les Jeux auxquels j'ai participé.](https://itch.io/profile/thalia33)
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-gamepad" title="A list and description of my games"%}}
-[Which you can also find here](/thalia-portfolio/mes-projets-de-jeux/).
+{{% blocks/feature icon="fa-solid fa-gamepad" title="Liste de mes jeux et leurs descriptions"%}}
+[Liste de mes jeux et de mes contributions à ceux ci](/thalia-portfolio/mes-projets-de-jeux/).
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-envelope" title="My e-mail adress"%}}
-<a href="mailto:fmeignan@etu.uqac.ca">Contact me via e-mail</a>
+{{% blocks/feature icon="fa-solid fa-envelope" title="Mon mail"%}}
+<a href="mailto:fmeignan@etu.uqac.ca">Contactez-moi par mail.</a>
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-file" title="My Curriculum Vitae"%}}
-<a href="mailto:fmeignan@etu.uqac.ca">Download my CV here</a>
+{{% blocks/feature icon="fa-solid fa-file" title="Mon CV"%}}
+<a href="mailto:fmeignan@etu.uqac.ca">Téléchargez mon CV en pdf ici.</a>
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}

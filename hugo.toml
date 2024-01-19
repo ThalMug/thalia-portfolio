@@ -2,8 +2,8 @@ baseURL = "/"
 title = "Thalia Meignan"
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/fr"
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -53,14 +53,23 @@ anchor = "smart"
 
 # Language configuration
 
-[languages]
-[languages.en]
-languageName ="English"
-# Weight used for sorting.
-weight = 1
-[languages.en.params]
+#[languages]
+#[languages.en]
+#languageName ="EN"
+#contentDir = "content/en"
+## Weight used for sorting.
+#weight = 1
+#[languages.en.params]
+#title = "Thalia Meignan"
+#description = "Welcome to my portfolio"
+
+[languages.fr]
+languageName = "FR"
+weight = 2
+[languages.fr.params]
 title = "Thalia Meignan"
 description = "Bienvenue sur mon portfolio"
+
 
 [markup]
   [markup.goldmark]
