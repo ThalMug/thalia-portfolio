@@ -60,7 +60,7 @@ Je suis actuellement étudiante en double-diplôme à l'Université du Québec �
 
 
 {{% blocks/feature icon="fab fa-itch-io" title="Ma page ItchIO"%}}
-[Où je publie les Jeux auxquels j'ai participé.](https://itch.io/profile/thalia33)
+[Où je publie les Jeux auxquels j'ai participé.](https://thalmug.itch.io/)
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-gamepad" title="Liste de mes jeux et leurs descriptions"%}}
@@ -72,7 +72,7 @@ Je suis actuellement étudiante en double-diplôme à l'Université du Québec �
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-file" title="Mon CV"%}}
-<a href="mailto:fmeignan@etu.uqac.ca">Téléchargez mon CV en pdf ici.</a>
+<a href="./CV_ThaliaMeignan.pdf" download>Téléchargez mon CV en pdf ici.</a>
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
