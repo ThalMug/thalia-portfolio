@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thalia Meignan – Projets de jeux</title>
-    <link>/mes-projets-de-jeux/</link>
+    <link>//localhost:1313/mes-projets-de-jeux/</link>
     <description>Recent content in Projets de jeux on Thalia Meignan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>fr</language>
     
-	  <atom:link href="/mes-projets-de-jeux/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/mes-projets-de-jeux/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,11 +15,11 @@
     
     
     <item>
-      <title>Mes Projets De Jeux: Another Great Release</title>
-      <link>/mes-projets-de-jeux/releases/in-depth-monoliths-detailed-spec/</link>
+      <title>Mes-Projets-De-Jeux: Another Great Release</title>
+      <link>//localhost:1313/mes-projets-de-jeux/releases/in-depth-monoliths-detailed-spec/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mes-projets-de-jeux/releases/in-depth-monoliths-detailed-spec/</guid>
+      <guid>//localhost:1313/mes-projets-de-jeux/releases/in-depth-monoliths-detailed-spec/</guid>
       <description>
         
         
@@ -248,9 +248,9 @@ bar := &amp;#34;foo&amp;#34;;
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;p&gt;Small images should be shown at their actual size.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://placekitten.com/g/300/200/&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://placekitten.com/g/300/200/&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Large images should always scale down and fit in the content container.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://placekitten.com/g/1200/800/&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://placekitten.com/g/1200/800/&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;components&#34;&gt;Components&lt;/h2&gt;
 &lt;h3 id=&#34;alerts&#34;&gt;Alerts&lt;/h3&gt;
 &lt;p&gt;

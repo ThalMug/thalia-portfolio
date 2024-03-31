@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thalia Meignan – Neverland</title>
-    <link>/mes-projets-de-jeux/neverland/</link>
+    <link>//localhost:1313/mes-projets-de-jeux/neverland/</link>
     <description>Recent content in Neverland on Thalia Meignan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>fr</language>
     
-	  <atom:link href="/mes-projets-de-jeux/neverland/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/mes-projets-de-jeux/neverland/index.xml" rel="self" type="application/rss+xml" />
     
     
       

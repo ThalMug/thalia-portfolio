@@ -27,9 +27,9 @@ Je suis actuellement étudiante en double-diplôme à l'Université du Québec �
             <p>Unreal Engine</p>
         </div>
         <div class="col-md-4 text-center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 100px; height: auto;" alt="C Programming Language"> 
-            <p>C</p>
-        </div>  
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" style="width: 100px; height: auto;" alt="C++ Programming Language"> 
+            <p>Godot</p>
+        </div> 
         <div class="col-md-4 text-center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 100px; height: auto;" alt="C++ Programming Language"> 
             <p>C#</p>
@@ -39,8 +39,32 @@ Je suis actuellement étudiante en double-diplôme à l'Université du Québec �
             <p>C++</p>
         </div>      
         <div class="col-md-4 text-center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 100px; height: auto;" alt="C Programming Language"> 
+            <p>C</p>
+        </div> 
+        <div class="col-md-4 text-center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 100px; height: auto;" alt="C++ Programming Language"> 
             <p>JavaScript</p>
+        </div>
+        <div class="col-md-4 text-center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 100px; height: auto;" alt="Java Programming Language"> 
+            <p>Java</p>
+        </div>
+        <div class="col-md-4 text-center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 100px; height: auto;" alt="Python Programming Language"> 
+            <p>Python</p>
+        </div>
+        <div class="col-md-4 text-center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 100px; height: auto;" alt="GIT"> 
+            <p>Git</p>
+        </div>
+        <div class="col-md-4 text-center">
+            <img src="https://upload.wikimedia.org/wikipedia/fr/4/45/Perforce.svg" style="margin-top: 3rem; width: 200px; height: 2rem;" alt="C++ Programming Language"> 
+            <p style="margin-top: 1rem;">Perforce</p>
+        </div>
+        <div class="col-md-4 text-center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="width: 100px; height: auto;" alt="C++ Programming Language"> 
+            <p>Jira</p>
         </div>
     </div>
 </div>

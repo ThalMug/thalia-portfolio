@@ -7221,7 +7221,7 @@ limitations under the License.
           }
 
           var query = $(this).val();
-          var searchPage = '/search/?q=' + query;
+          var searchPage = '//localhost:1313/search/?q=' + query;
           document.location = searchPage;
 
           return false;
