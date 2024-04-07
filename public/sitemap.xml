@@ -3,11 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/mes-projets-de-jeux/gooh/</loc>
+    <lastmod>2024-03-31T14:55:04-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/mes-projets-de-jeux/galaxy-potatoes/</loc>
     <lastmod>2024-01-18T19:04:19-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/mes-projets-de-jeux/geneticmayhem/</loc>
+    <lastmod>2024-03-31T14:55:04-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/mes-projets-de-jeux/liveandevil/</loc>
     <lastmod>2024-01-18T19:04:19-05:00</lastmod>
@@ -30,13 +32,15 @@
     <loc>//localhost:1313/about/</loc>
     <lastmod>2024-01-18T19:04:19-05:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/to/</loc>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
     <loc>//localhost:1313/cv/</loc>
     <lastmod>2024-01-18T19:04:19-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/mes-projets-de-jeux/</loc>
-    <lastmod>2024-01-18T19:04:19-05:00</lastmod>
+    <lastmod>2024-03-31T14:55:04-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/search/</loc>
     <lastmod>2024-01-18T19:04:19-05:00</lastmod>
@@ -44,6 +48,6 @@
     <loc>//localhost:1313/tags/</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-01-26T20:32:30-05:00</lastmod>
+    <lastmod>2024-03-31T14:55:04-04:00</lastmod>
   </url>
 </urlset>

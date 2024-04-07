@@ -4,7 +4,7 @@ linkTitle: Parcours académique
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="Mon parcours académique" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="Mon parcours académique" height="auto" %}}
 {.mt-5}
 
 {{% /blocks/cover %}}
